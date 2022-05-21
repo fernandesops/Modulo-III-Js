@@ -4,11 +4,6 @@
 
 ## Módulos desse Repositório
 
-1. Módulo I  -Conteúdo  de abertura 	
-2. Módulo II  -  HTML/CSS3
-3. Módulo III  - Javascript
-4. Módulo IV  - ReactJS
-5. Módulo V  - SQL
-6. Módulo VI  - JAVA
-7. Módulo VIII  - Spring Framework
-8. Módulo VIII  - QA
+1. Módulo III  - Javascript
+
+   
